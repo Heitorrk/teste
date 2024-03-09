@@ -4,10 +4,11 @@ Bem-vindo à API do universo Demon Slayer, uma plataforma que fornece informaç�
 # Como instalar :card_file_box:
 Para começar, você precisará clonar este repositório:
 git clone (https://github.com/Heitorrk/Fabrica_2024.1.git)
-Em seguida, instale as dependências necessárias e a venv:  
+Em seguida, instale a venv:  
 ```python -m venv venv```  
 Para ativar a venv utiliza-se:  
-```.\venv\Scripts\activate```
+```.\venv\Scripts\activate```  
+Para instalar as dependências:  
 ```pip install -r requirements.txt```  
 Em seguida faça as migrações necessárias:  
 ```python manage.py makemigrations```
