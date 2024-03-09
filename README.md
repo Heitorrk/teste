@@ -16,7 +16,7 @@ Em seguida faça as migrações necessárias:
 # Como usar :pencil:
 Inicie o servidor da API:
 ```python manage.py runserver```
-Acesse a API em http://localhost:8000/  
+Acesse a API em http://localhost:8000/
 para obter uma lista de endpoints disponíveis.
 Utilize os endpoints para obter informações sobre personagens, técnicas e citações.
 Exemplo de endpoint para obter informações sobre um personagem:
