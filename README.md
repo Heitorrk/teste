@@ -11,7 +11,7 @@ Para ativar a venv utiliza-se:
 Para instalar as dependências:  
 ```pip install -r requirements.txt```  
 Em seguida faça as migrações necessárias:  
-```python manage.py makemigrations```
+```python manage.py makemigrations```  
 ```python manage.py migrate```
 
 # Como usar :pencil:
