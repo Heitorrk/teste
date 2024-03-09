@@ -8,7 +8,7 @@ Em seguida, instale a venv:
 ```python -m venv venv```  
 Para ativar a venv utiliza-se:  
 ```.\venv\Scripts\activate```  
-Para instalar as dependências:  
+Entra no repositório e instale as dependências:  
 ```pip install -r requirements.txt```  
 Em seguida faça as migrações necessárias:  
 ```python manage.py makemigrations```  
